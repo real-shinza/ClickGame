@@ -11,6 +11,9 @@
     <Filter Include="ソース ファイル\Common">
       <UniqueIdentifier>{be978182-3eaa-4d65-a2d3-67c12c0e0d3b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ソース ファイル\Game">
+      <UniqueIdentifier>{7d09c6ec-1ded-4429-b00a-0f34488effe2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Src\Engine\Engine.cpp">
